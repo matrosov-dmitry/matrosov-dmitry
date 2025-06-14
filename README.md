@@ -23,6 +23,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matrosov-dmitry&show_icons=true&theme=github_dark" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=matrosov-dmitry&theme=github-dark-blue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrosov-dmitry&layout=compact&theme=github_dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=matrosov-dmitry&theme=darkhub&no-frame=true"/>
 </p>
 
 ---
